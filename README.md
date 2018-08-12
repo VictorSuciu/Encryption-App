@@ -7,7 +7,7 @@ This is a simple image encryption tool that can encrypt and decrypt images with 
 
 ## Usage
 
-1. Click the `Choose a File` button at the top, and select the image file you want to use. **This must be a png file. jpg or others will not work.**
+1. Click the `Choose a File` button at the top, and select the image file you want to use. </br> **This must be a png file. jpg or others will not work.**
 
 2. Enter the key you would like to use. A key can be any string of characters of any length such as a word or sentence, and can include letters, numbers, punctuation, and special characters. If you are decrypting an image that was encrypted with this tool, enter the same key that was used to encrypt it.
 
@@ -15,7 +15,9 @@ This is a simple image encryption tool that can encrypt and decrypt images with 
 
 4. The image will remain in the same place on your computer as before it was altered by the app.
 
->*Example encryption*
+</br>
+
+## *Example encryption*
 
 ![alt text](https://github.com/VictorSuciu/Encryption-App/blob/master/Images/EncryptionImageExample.png)
 

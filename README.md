@@ -17,7 +17,7 @@ This is a simple image encryption tool that can encrypt and decrypt images with 
 
 </br>
 
-## Example Encryption
+## Example encryption
 
 ![alt text](https://github.com/VictorSuciu/Encryption-App/blob/master/Images/White-Oak-Tree.png)
 

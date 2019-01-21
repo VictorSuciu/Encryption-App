@@ -1,5 +1,5 @@
 # Encryption-App
-This is a simple image encryption tool that can encrypt and decrypt images with a key/password, created in grade 11. Any image that has been encrypted with a key can only be decrypted with the same key.
+This is a simple image encryption tool that can encrypt and decrypt images with a key/password, created in 2017. Any image that has been encrypted with a key can only be decrypted with the same key.
 
 ![alt text](https://github.com/VictorSuciu/Encryption-App/blob/master/Images/EncryptionImageExample.png)
 
